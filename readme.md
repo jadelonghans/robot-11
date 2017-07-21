@@ -10,7 +10,7 @@ Group project to develop a tank bot, and then a groupbot that can be used in gro
 - Communication between bots (of same team) : share enemy info, leader id, fired bullets
 - and other strategies.
 
-* This repo is a public version of my private repo, which was actually used during development, and is quite a mess.
+*This repo is a public version of my private repo, which was actually used during development, and is quite a mess.
 
 # Bibliography:
 
